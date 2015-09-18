@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+    </qresource>
+    <qresource prefix="/components">
+        <file>TopBar.qml</file>
+        <file>Card.qml</file>
+        <file>FloatActionButton.qml</file>
+        <file>Dialog.qml</file>
+    </qresource>
+    <qresource prefix="/assets">
+        <file alias="plus.png">assets/plus.png</file>
+    </qresource>
+</RCC>
